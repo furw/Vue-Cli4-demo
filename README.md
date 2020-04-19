@@ -1,4 +1,4 @@
-# vue-cli4-demo
+# PC管理系统模板
 ## 基于vue-cli4 搭建的管理系统模板, 安装了axion, router,vuex, element-ui, 配置了HTTP拦截器, 菜单按钮权限, 环境变量等
 
 ## Project setup
