@@ -2,10 +2,10 @@
 	<div id="_body">
 
 		<header>
-			<el-button type="primary">新增</el-button>
-			<el-button type="success">查询</el-button>
-			<el-button type="warning">编辑</el-button>
-			<el-button type="danger">删除</el-button>
+			<el-button type="primary" v-has="'add'">新增</el-button>
+			<el-button type="success" v-has="'select'">查询</el-button>
+			<el-button type="warning" v-has="'edit'">编辑</el-button>
+			<el-button type="danger" v-has="'delete'">删除</el-button>
 		</header>
 
 		<section>

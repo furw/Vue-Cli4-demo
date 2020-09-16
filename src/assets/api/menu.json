@@ -7,7 +7,7 @@
 		"label": "菜单管理",
 		"perUrl": "/system/menus",
 		"icon": "el-icon-s-order",
-		"permTypes": ["add", "delete"]
+		"permTypes": ["add", "delete","select"]
 	}, {
 		"id": "2",
 		"label": "角色管理",
